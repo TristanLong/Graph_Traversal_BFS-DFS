@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\BFS_DFS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8367F11B-8923-45A7-9CDC-8D613E417F24}|BFS_DFS\\BFS_DFS.vcxproj|D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\BFS_DFS\\BFS_DFS\\AdjacencyList.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8367F11B-8923-45A7-9CDC-8D613E417F24}|BFS_DFS\\BFS_DFS.vcxproj|solutionrelative:BFS_DFS\\AdjacencyList.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8367F11B-8923-45A7-9CDC-8D613E417F24}|BFS_DFS\\BFS_DFS.vcxproj|D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\BFS_DFS\\BFS_DFS\\SourceList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8367F11B-8923-45A7-9CDC-8D613E417F24}|BFS_DFS\\BFS_DFS.vcxproj|solutionrelative:BFS_DFS\\SourceList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8367F11B-8923-45A7-9CDC-8D613E417F24}|BFS_DFS\\BFS_DFS.vcxproj|D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\BFS_DFS\\BFS_DFS\\SourceMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8367F11B-8923-45A7-9CDC-8D613E417F24}|BFS_DFS\\BFS_DFS.vcxproj|solutionrelative:BFS_DFS\\SourceMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8367F11B-8923-45A7-9CDC-8D613E417F24}|BFS_DFS\\BFS_DFS.vcxproj|D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\BFS_DFS\\BFS_DFS\\AdjacencyMatrix.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8367F11B-8923-45A7-9CDC-8D613E417F24}|BFS_DFS\\BFS_DFS.vcxproj|solutionrelative:BFS_DFS\\AdjacencyMatrix.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 39,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SourceMatrix.cpp",
+              "DocumentMoniker": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\BFS_DFS\\BFS_DFS\\SourceMatrix.cpp",
+              "RelativeDocumentMoniker": "BFS_DFS\\SourceMatrix.cpp",
+              "ToolTip": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\BFS_DFS\\BFS_DFS\\SourceMatrix.cpp",
+              "RelativeToolTip": "BFS_DFS\\SourceMatrix.cpp",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T10:43:22.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SourceList.cpp",
+              "DocumentMoniker": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\BFS_DFS\\BFS_DFS\\SourceList.cpp",
+              "RelativeDocumentMoniker": "BFS_DFS\\SourceList.cpp",
+              "ToolTip": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\BFS_DFS\\BFS_DFS\\SourceList.cpp",
+              "RelativeToolTip": "BFS_DFS\\SourceList.cpp",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAwHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T10:43:03.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdjacencyList.txt",
+              "DocumentMoniker": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\BFS_DFS\\BFS_DFS\\AdjacencyList.txt",
+              "RelativeDocumentMoniker": "BFS_DFS\\AdjacencyList.txt",
+              "ToolTip": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\BFS_DFS\\BFS_DFS\\AdjacencyList.txt",
+              "RelativeToolTip": "BFS_DFS\\AdjacencyList.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-20T10:42:30.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdjacencyMatrix.txt",
+              "DocumentMoniker": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\BFS_DFS\\BFS_DFS\\AdjacencyMatrix.txt",
+              "RelativeDocumentMoniker": "BFS_DFS\\AdjacencyMatrix.txt",
+              "ToolTip": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\BFS_DFS\\BFS_DFS\\AdjacencyMatrix.txt",
+              "RelativeToolTip": "BFS_DFS\\AdjacencyMatrix.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-20T10:41:55.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
